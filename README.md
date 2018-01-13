@@ -3,4 +3,4 @@
 
 An epic game
 
-![screenshot](epic-game.jpg)
+![screenshot](epic-game.JPG)
