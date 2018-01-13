@@ -3,4 +3,4 @@
 
 An epic game
 
-![screenshot](epic-game.JPG)
+![screenshot](https://github.com/mewhubHawk/epic-game/blob/master/epic-game.JPG)
